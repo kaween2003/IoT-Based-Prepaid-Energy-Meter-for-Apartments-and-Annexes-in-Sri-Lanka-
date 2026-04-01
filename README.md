@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/License-MIT-lightgrey" />
 </p>
 
-> A B.Sc. Engineering Group Project — Department of Electrical and Computer Engineering, Faculty of Engineering Technology, The Open University of Sri Lanka.
+> A B.Sc. Engineering Group Project — Department of Electrical and Computer Engineering, Faculty of Engineering , The Open University of Sri Lanka.
 
 ---
 
