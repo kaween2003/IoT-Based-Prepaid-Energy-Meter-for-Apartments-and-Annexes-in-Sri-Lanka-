@@ -1,7 +1,7 @@
 # ⚡ IoT-Based Prepaid Energy Meter for Apartments & Annexes in Sri Lanka
 
 <p align="center">
-  <img src="images/circuit_diagram.jpg" alt="Circuit Diagram" width="700"/>
+  <img src="circuit_diagram.jpeg" alt="Circuit Diagram" width="700"/>
 </p>
 
 <p align="center">
