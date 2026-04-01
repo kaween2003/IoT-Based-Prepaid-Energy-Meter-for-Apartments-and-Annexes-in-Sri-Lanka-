@@ -245,7 +245,7 @@ Password: admin123
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/iot-prepaid-energy-meter.git
+git clone https://github.com/kaween2003/iot-prepaid-energy-meter.git
 cd iot-prepaid-energy-meter
 ```
 
@@ -292,18 +292,5 @@ On the **Account** page, enter the monthly allowance and click **Recharge**.
 
 ---
 
-## 📚 References
-
-1. Noor Ziad Taha, Amera Istiqlal Badran, *"IoT Based Energy Monitoring and Control System,"* International Research Journal of Innovations in Engineering and Technology (IRJIET), Volume 7, Issue 3, pp 72–77, March 2023. DOI: [10.47001/IRJIET/2023.703009](https://doi.org/10.47001/IRJIET/2023.703009)
-
-2. DIY Projects Labs — [IoT ESP32 Prepaid Energy Meter with PZEM-004T](https://diyprojectslabs.com/esp32-prepaid-energy-meter-pzem004t/)
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 <p align="center">Made with ❤️ at The Open University of Sri Lanka</p>
