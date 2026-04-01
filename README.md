@@ -105,7 +105,7 @@ CEB/LECO Grid (220V AC)
 ## 🔌 Circuit Diagram
 
 <p align="center">
-  <img src="circuit_diagram.jpg" alt="Full Circuit Diagram" width="700"/>
+  <img src="circuit_diagram.jpeg" alt="Full Circuit Diagram" width="700"/>
 </p>
 
 *Components: ESP32 · 1.8" TFT Display · PZEM-004T · Relay Module · CT Sensor · Load Bulb · Push Button*
@@ -168,7 +168,7 @@ Update balance on cloud & ESP32
 The ESP32 hosts a responsive web interface accessible from any device on the local network.
 
 <p align="center">
-  <img src="images/dashboard_screenshot.png" alt="Web Dashboard" width="700"/>
+  <img src="dashboard_screenshot.png" alt="Web Dashboard" width="700"/>
 </p>
 
 **Dashboard sections:**
