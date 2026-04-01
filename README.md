@@ -172,6 +172,9 @@ The ESP32 hosts a responsive web interface accessible from any device on the loc
 <p align="center">
   <img src="Web Dashboard.jpeg" alt="Web Dashboard" width="700"/>
 </p>
+<p align="center">
+  <img src="control.jpeg" alt="Web Dashboard" width="700"/>
+</p>
 
 **Dashboard sections:**
 - **Dashboard** — Live voltage, current, power, energy, and balance cards
