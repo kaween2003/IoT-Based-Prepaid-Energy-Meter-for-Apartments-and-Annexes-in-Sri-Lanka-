@@ -107,7 +107,9 @@ CEB/LECO Grid (220V AC)
 <p align="center">
   <img src="circuit_diagram.jpeg" alt="Full Circuit Diagram" width="700"/>
 </p>
-
+<p align="center">
+  <img src="practical.jpeg" alt="Circuit Diagram" width="700"/>
+</p>
 *Components: ESP32 · 1.8" TFT Display · PZEM-004T · Relay Module · CT Sensor · Load Bulb · Push Button*
 
 ---
